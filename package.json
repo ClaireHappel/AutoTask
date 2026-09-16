@@ -1,0 +1,18 @@
+{
+  "name": "weekly-checklist-local",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "configure": "tsx src/configure.ts",
+    "rollover": "tsx src/rollover.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "tsx": "^4.20.0",
+    "typescript": "^5.9.0"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  }
+}
