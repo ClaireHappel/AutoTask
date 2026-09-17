@@ -2,7 +2,7 @@
 
 AutoTask was built with TypeScript, PowerShell, Microsoft Excel, and Windows Task Scheduler and was built for a Windows 11 + WSL + Ubuntu enviornment using AI. It automates the maintenance of a weekly Excel task list while keeping the workbook local to the computer. 
 
-I built it to serve as my basic weekly, to-do list.
+I built it to serve as my basic weekly, to-do list and assist with my own job hunting process. Somewhere along the line I realized other people might be interested in something similar so I pivoted to something that could easily be placed in a repo and created step by step instruction in my documentation. Thanks for checking out the project!
 
 ## What AutoTask Does
 
